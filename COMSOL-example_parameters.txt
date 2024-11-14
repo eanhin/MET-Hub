@@ -1,0 +1,8 @@
+rin "1 [cm]" "Inner radius"
+rout "2 [cm]" "Outer radius"
+hcool "20 [W/(m^2*K)]" "Ambient convection coefficient"
+Tamb "20 [degC]" "Ambient temperature"
+Thot "100 [degC]" "Inner wall temperature"
+cp_mat "2200 [J/(kg*K)]" "Specific heat of polystyrene"
+thcond_mat "0.19 [W/(m*K)]" "Thermal conductivity of polystyrene"
+rho_mat "1230 [kg/m^3]" ""
